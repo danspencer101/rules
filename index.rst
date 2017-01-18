@@ -37,6 +37,11 @@ A. Complaints Policy
     This is the policy followed by the Trustees when we receive a complaint.
 B. SafeSpaces Policy
     This policy sets out what behaviour is inappropriate in that it may amount to harassment.
+C. Member Termination Process
+    This guide describes the proccess that happens when member stops paying the space
+D. Constitution
+    The Nottingham Hackspace Constitution
+    
 
 .. toctree::
     :hidden:
@@ -54,3 +59,4 @@ B. SafeSpaces Policy
     Rule 8. Donating to Nottingham Hackspace <donating-to-nottingham-hackspace>
     Appendix A: Complaints Policy <complaints-policy>
     Appendix B: SafeSpaces Policy <safespaces>
+    Appendix D: Nottingham Hackspace Constitution <constitution>
